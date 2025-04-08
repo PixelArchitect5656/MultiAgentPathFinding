@@ -11,15 +11,6 @@
 
 ## Demo
 
-[在线尝试](https://mapf-simulation-system.pages.dev/)
-
-[在线尝试(备用)](https://mapf-cbs-ying.netlify.app/)
-
-
-## Screenshots
-
-![image-20210613195542733.png](https://i.loli.net/2021/06/13/63rn2QgBouTDdVI.png)
-## Installation
 
 本系统使用p5.js编写，推荐使用atom等支持该语言的IDE编辑。
 
