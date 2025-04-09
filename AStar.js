@@ -31,7 +31,16 @@ class AStar {
 
         var fScore = {};
         fScore[initialState] = hScore[initialState];
+// 声明一个数字变量
+let num = 10;
+// 声明一个字符串变量
+let str = "Hello, World!";
+// 声明一个布尔变量
+let isTrue = true;
 
+console.log(num);
+console.log(str);
+console.log(isTrue);
         // 由于无路可走时，Agent可以选择一直停在原地，所以设定一个最大迭代轮数
         var cnt = 0;
         var maxCnt = 1000;
